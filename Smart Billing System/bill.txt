@@ -1,0 +1,23 @@
+=====================================
+           Grocery Store Bill        
+=====================================
+Date : 18-08-2025 00:03:13
+
+Name = Mr/mrs Sohail Khan
+Phone number : xxxxxxxxx 
+Sugar x 5      = ₹225
+Oil x 2      = ₹240
+Dal x 6      = ₹420
+Tea x 4      = ₹80
+Soap x 2      = ₹90
+Rice x 10      = ₹500
+Milk x 3      = ₹180
+Takatak x 8      = ₹40
+
+-----------------------------
+Subtotal      : ₹1775
+Discount      : ₹177.50
+GST (5%)      : ₹79.88
+Total Payable : ₹1677.38
+Payment Mode    : UPI
+-----------------------------
